@@ -3,7 +3,7 @@
 #include "Player.h"
 #include "Dialogue.h"
 
-class UpstairsWizard : public Dialogue
+class UpstairsWizard
 {
 public:
 	UpstairsWizard();

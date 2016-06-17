@@ -8,6 +8,7 @@ public:
 	DarkKnight();
 	~DarkKnight();
 
+	// The responses to user input
 	void FirstResponse();
 	void SecondResponse();
 	void ThirdResponse();

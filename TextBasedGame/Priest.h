@@ -8,6 +8,7 @@ public:
 	Priest();
 	~Priest();
 
+	// The responses to user input
 	void FirstResponse();
 	void SecondResponse();
 	void ThirdResponse();

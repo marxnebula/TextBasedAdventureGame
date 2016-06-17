@@ -8,6 +8,7 @@ public:
 	Druid();
 	~Druid();
 
+	// The responses to user input
 	void FirstResponse();
 	void SecondResponse();
 	void ThirdResponse();
